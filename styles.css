@@ -1,0 +1,13 @@
+p {
+  text-align: center;
+  font-size: 50px;
+}
+p:hover {
+  color: rgb(235, 155, 36);
+  cursor: pointer;
+  text-shadow: 5px 8px 5px steelblue;
+  transition: 1s;
+}
+h2 {
+  text-align: center;
+}
